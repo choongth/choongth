@@ -1,4 +1,8 @@
 ## Hi, I am @choongtihuai
 
-- 🌱 I’m currently learning Machine Learning
+**Forerun my peers, my time.**
+- 🌱 Currently learning:
+    + Agentic Pattern Design
+    + Django
+    + React.JS
 - 📫 How to reach me: tihuaichoong@gmail.com
